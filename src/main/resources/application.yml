@@ -1,0 +1,6 @@
+abc:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: localhost:6666,localhost:7777,localhost:8888
+    ServerListRefreshInterval: 15000
